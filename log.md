@@ -10,7 +10,7 @@
 **Link to work:** I got about this far today: https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side
 
 
-### Day 1: June 27, Monday
+### Day 1: January 2nd, 2018
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
