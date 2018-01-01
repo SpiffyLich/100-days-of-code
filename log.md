@@ -3,11 +3,11 @@
 ### Day 0: January 1st, 2018!  -- A New Year's Resolution...
 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Reviewed HTML5, CSS, And some basic design with bootstrap on FreeCodeCamp! (Didn't Finish the Bootstrap Section though)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** None of the actual coding thus far was terribly difficult- but jeez is there a whole lot ot memorize. As in, there's a million and one ways to edit and manipulate every little thing- maybe keeping a reference sheet/site for bootstrap would be handy?
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** I got about this far today: https://www.freecodecamp.org/challenges/use-the-bootstrap-grid-to-put-elements-side-by-side
 
 
 ### Day 1: June 27, Monday
