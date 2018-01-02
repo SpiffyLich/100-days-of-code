@@ -3,7 +3,8 @@
 ### Day 0: January 1st, 2018!  -- A New Year's Resolution...
 
 
-**Today's Progress**: Reviewed HTML5, CSS, And some basic design with bootstrap on FreeCodeCamp! (Didn't Finish the Bootstrap Section though)
+**Today's Progress**: Reviewed HTML5, CSS, And some basic design with bootstrap on FreeCodeCamp! (Didn't Finish the Bootstrap Section though).
+Learned that CSS seems to be contained in <style> </style>. is this true? What's the relationship between CSS and HTML? it feels like they're almost one and the same.
 
 **Thoughts:** None of the actual coding thus far was terribly difficult- but jeez is there a whole lot ot memorize. As in, there's a million and one ways to edit and manipulate every little thing- maybe keeping a reference sheet/site for bootstrap would be handy?
 
