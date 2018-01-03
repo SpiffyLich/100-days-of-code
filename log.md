@@ -19,5 +19,4 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 
 **Thoughts** I tried the bootstrap/jQuery stuff a while ago, but it didn't exactly make sense at the time- there was a lot of different things to remember... now that I go back over it though, I'm actually understanding what the heck is going on! I'm excited to get to the challenge where I make my own (very, very humble) website!
 
-**Link(s) to work**
-1. Got to here today! : https://www.freecodecamp.org/challenges/change-the-css-of-an-element-using-jquery
+**Link to work:** Got to here today! : https://www.freecodecamp.org/challenges/change-the-css-of-an-element-using-jquery
