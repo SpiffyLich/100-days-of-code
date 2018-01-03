@@ -13,10 +13,11 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 
 ### Day 1: January 2nd, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Got almost all the way through the jQuery stuff today on FreeCodeCamp! did around 20+ exercises in an hour?
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+
+**Thoughts** I tried the bootstrap/jQuery stuff a while ago, but it didn't exactly make sense at the time- there was a lot of different things to remember... now that I go back over it though, I'm actually understanding what the heck is going on! I'm excited to get to the challenge where I make my own (very, very humble) website!
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. Got to here today! : https://www.freecodecamp.org/challenges/change-the-css-of-an-element-using-jquery
