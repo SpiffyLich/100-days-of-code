@@ -22,7 +22,7 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 **Link to work:** Got to here today! : https://www.freecodecamp.org/challenges/change-the-css-of-an-element-using-jquery
 
 
-### Day 2: January 3nd, 2018
+### Day 2: January 3rd, 2018
 
 **Today's Progress**: Finished jQuery, Finished Bootstrap, Finished blah blah blah... important part is- I GOT STARTED ON MY FIRST WEBSITE! (Tribute page to ada lovelace, the mother of computing). made a well, linked my Github, put some header text, and got an image in...
 
@@ -30,3 +30,11 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 
 **Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/pen/QaMamg
 
+
+### Day 3: January 4th, 2018
+
+**Today's Progress**: got some SERIOUS work done one my tribute page! so much so that its actually a finished rough-draft! I centered a pic of Ada, added a pic of her famous work, as well as rough timeline of her life and a quote about her. ...aaaand a link to here ;)
+
+**Thoughts:** Coding this webpage was kinda challenging, and it took a LOT of reading, but it was SO rewarding!
+
+**Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/full/QaMamg/
