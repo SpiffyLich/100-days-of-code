@@ -24,11 +24,9 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 
 ### Day 2: January 3nd, 2018
 
-**Today's Progress**: Finished jQuery, Finished Bootstrap, Finished blah blah blah... important part is- I GOT STARTED ON MY FIRST WEBSITE! (Tribute page to ada lovelace, the mother of computing). made a well, linked myself, put some header text, and got an image in!
+**Today's Progress**: Finished jQuery, Finished Bootstrap, Finished blah blah blah... important part is- I GOT STARTED ON MY FIRST WEBSITE! (Tribute page to ada lovelace, the mother of computing). made a well, linked my Github, put some header text, and got an image in...
 
+**Thoughts:** There are so many ways to do every little thing! For example, Right now I'm wanting to center the Picture of Ms. Ada... So, I could just have her picture pushed X-pixels over to the right- but then it wouldn't be responsive, or look quite the same on mobile. So, I need to use bootstrap. but by using bootstrap, I have to figure out how to center things respectively using its grid system. ayee!
 
-
-**Thoughts: **: 
-
-**Link to work:** Got to here today! : https://www.freecodecamp.org/challenges/change-the-css-of-an-element-using-jquery
+**Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/pen/QaMamg
 
