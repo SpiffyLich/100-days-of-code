@@ -20,3 +20,15 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 **Thoughts** I tried the bootstrap/jQuery stuff a while ago, but it didn't exactly make sense at the time- there was a lot of different things to remember... now that I go back over it though, I'm actually understanding what the heck is going on! I'm excited to get to the challenge where I make my own (very, very humble) website!
 
 **Link to work:** Got to here today! : https://www.freecodecamp.org/challenges/change-the-css-of-an-element-using-jquery
+
+
+### Day 2: January 3nd, 2018
+
+**Today's Progress**: Finished jQuery, Finished Bootstrap, Finished blah blah blah... important part is- I GOT STARTED ON MY FIRST WEBSITE! (Tribute page to ada lovelace, the mother of computing). made a well, linked myself, put some header text, and got an image in!
+
+
+
+**Thoughts: **: 
+
+**Link to work:** Got to here today! : https://www.freecodecamp.org/challenges/change-the-css-of-an-element-using-jquery
+
