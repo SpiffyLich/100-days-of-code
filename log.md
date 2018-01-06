@@ -38,3 +38,11 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 **Thoughts:** Coding this webpage was kinda challenging, and it took a LOT of reading, but it was SO rewarding!
 
 **Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/full/QaMamg/
+
+### Day 4: January 5th, 2018
+
+**Today's Progress**: Made a really *rough* draft of a portfolio page. it has a fixed-position, collapsable navbar. also has an image or two, and some blaceholder text, as well as a decent color-scheme going for it.
+
+**Thoughts:** Today's progress is the defenition, no, the essense, of a grind. it was slow, often flat out tedious, and sometimes downright painful. it took me hours to get the damned navbar looking right, and then I realized it wouldn't work on mobile, so I spent another few hours trying to get a collapseable version working, which wouldnt, because I forgot to include jQuery. yeeesh. Still feels good though, that I managed some progress at the end of the day...
+
+**Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/full/rpYazz/
