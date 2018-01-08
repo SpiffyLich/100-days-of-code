@@ -46,3 +46,19 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 **Thoughts:** Today's progress is the defenition, no, the essense, of a grind. it was slow, often flat out tedious, and sometimes downright painful. it took me hours to get the damned navbar looking right, and then I realized it wouldn't work on mobile, so I spent another few hours trying to get a collapseable version working, which wouldnt, because I forgot to include jQuery. yeeesh. Still feels good though, that I managed some progress at the end of the day...
 
 **Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/full/rpYazz/
+
+### Day 5: January 6th, 2018
+
+**Today's Progress**: Added some text, some page-breaks, and fixed the images breaking on mobile.
+
+**Thoughts:** I wish I had more than an hour sometimes to work on things... it feels like, at the rate I'm learning things, so little progress is being made.
+
+**Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/full/rpYazz/
+
+### Day 6: January 7th, 2018
+
+**Today's Progress**: Added portfolio and contact me sections, as well as placeholder pictures for the portfolio-section, and some rather rough forms for the "contact me" section that the user can fill out.
+
+**Thoughts:** I wish I had more than an hour sometimes to work on things... it feels like, at the rate I'm learning things, so little progress is being made.
+
+**Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/full/rpYazz/
