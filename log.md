@@ -62,3 +62,11 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 **Thoughts:** I wish I had more than an hour sometimes to work on things... it feels like, at the rate I'm learning things, so little progress is being made.
 
 **Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/full/rpYazz/
+
+### Day 7: January 8th, 2018
+
+**Today's Progress**: Added Social-media links to my work. Additionally, I managed to get a scroll-spy working for the webpage, so now users may click at the labels at the top of the page to access any portion. 
+
+**Thoughts:** I wish I was able to work more quickly. the progress I'm making now feels so... minimal. I mean, I've only been dedicating around an hour each to to this project, but it annoyes me so much that I can't actually make decent progress...
+
+**Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/full/rpYazz/
