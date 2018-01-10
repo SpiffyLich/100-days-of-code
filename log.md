@@ -70,3 +70,12 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 **Thoughts:** I wish I was able to work more quickly. the progress I'm making now feels so... minimal. I mean, I've only been dedicating around an hour each to to this project, but it annoyes me so much that I can't actually make decent progress...
 
 **Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/full/rpYazz/
+
+
+### Day 8: January 9th, 2018
+
+**Today's Progress**: Linked Social media links to actual websites, and they worked! also, I got them lined up all pretty and in the middle! additionally, I managed to add some fancy fonts to the otherwise ugly text on the webpage, and changed the webpage's color to a more appealing blue-hue.
+
+**Thoughts:** Doing a little bit of searching and reading makes A LOT of coding easier...
+
+**Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/full/rpYazz/
