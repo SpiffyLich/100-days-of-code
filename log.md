@@ -79,3 +79,11 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 **Thoughts:** Doing a little bit of searching and reading makes A LOT of coding easier...
 
 **Link to work:** Check out my progress so far! : https://codepen.io/SpiffyLich/full/rpYazz/
+
+### Day 9: January 10th, 2018
+
+**Today's Progress**: Reviewed a bit of Javascript in FreeCodeCamp, didn't *actually* code much :( I need to get on top of things!
+
+**Thoughts:** Javascript is a lazy-man's c++.
+
+**Link to work:** Check out my progress so far!: https://www.freecodecamp.org/challenges/escape-sequences-in-strings
