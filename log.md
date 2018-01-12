@@ -87,3 +87,12 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 **Thoughts:** Javascript is a lazy-man's c++.
 
 **Link to work:** Check out my progress so far!: https://www.freecodecamp.org/challenges/escape-sequences-in-strings
+
+
+### Day 10: January 11th, 2018
+
+**Today's Progress**: Reviewed a bit of Javascript in FreeCodeCamp, didn't *actually* code much :( I need to get on top of things!
+
+**Thoughts:** Javascript is a lazy-man's c++.
+
+**Link to work:** Check out my progress so far!: https://www.freecodecamp.org/challenges/global-scope-and-functions
