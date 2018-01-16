@@ -96,3 +96,13 @@ Learned that CSS seems to be contained in <style> </style>. is this true? What's
 **Thoughts:** Javascript is a lazy-man's c++.
 
 **Link to work:** Check out my progress so far!: https://www.freecodecamp.org/challenges/global-scope-and-functions
+
+
+### Day 12-14: January 15th, 2018
+
+**Today's Progress**: Slowly wading through the FreeCodeCamp Javascript exercizes... I really should be coding more...
+
+**Thoughts:** Javascript is a lazy-man's c++.
+
+**Link to work:** Check out my progress so far!: https://www.freecodecamp.org/challenges/global-scope-and-functions
+
